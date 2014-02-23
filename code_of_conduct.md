@@ -46,8 +46,8 @@ Lo staff della conferenza sarà lieto di aiutare i partecipanti a contattare la 
 
 Procedure per la gestione delle molestie
 ----------------------------------------
-- [Attendee Procedure for incident handling](/2013/about/code-of-conduct/harassment-incidents/)
-- [Staff Procedure for incident handling](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents-staff/)
+- [Procedura per la gestione degli incidenti (Partecipanti)](/2013/about/code-of-conduct/harassment-incidents/)
+- [Procedura per la gestione degli incidenti (Staff)](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents-staff/)
 
 Licenza
 -------
