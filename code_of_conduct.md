@@ -20,15 +20,15 @@ Grazie per aiutarci a rendere questo evento accogliente ed amichevole per tutti.
 Versione Estesa
 ---------------
 
-Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+La molestia include riferimenti verbali offensivi relativi a sesso, orientamento sessuale, disabilità, aspetto fisico, taglia, razza, religione, immagini sessuali negli spazi condivisi, intimidazione intenzionale, stalking, persecuzione, fotografie o registrazioni non desiderate, ripetute interruzioni dei talk o di altri eventi, contatto fisico inappropriato ed attenzioni sessuali non desiderate.
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+I partecipanti a cui venisse chiesto di interrompere comportamenti molesti dovranno farlo immediatamente.
 
-Exhibitors in the expo hall, sponsor or vendor booths, or similar activities are also subject to the anti-harassment policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+Gli espositori nella Sala Expo, negli stand degli sponsor o attività simili sono soggette alla politica anti-molestie. In particolare, gli espositori non dovrebbero utilizzare immagini, attività od altro materiale a sfondo sessuale. Lo staff negli stand (inclusi i volontari) non dovrebbe utilizzare abbigliamento/divise/costumi con riferimenti sessuali o in ogni caso creare un contesto analogo.
 
-Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for PyCon.
+Fate attenzione alle parole che scegliete. Ricordatevi che battute o scherzi sessisti, razzisiti o comunque esclusivisti posso risultare offensivi per le persone che vi circondano. Un uso eccessivo dello sproloquio e di battute offensive non sono appropriati per DjangoVillage.
 
-If a participant engages in behavior that violates this code of conduct, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
+Se un partecipante si rende colpevole di comportamenti che violano questo codice di condotta, gli organizzatori della conferenza possono prendere le iniziative che riterranno più opportune, incluso ammonire l'offensore o espellerlo dalla conferenza senza diritto al rimborso.
 
 Contact Information
 -------------------
