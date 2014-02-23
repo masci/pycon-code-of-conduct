@@ -1,38 +1,38 @@
-This procedure has been adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)”.
+Questa procedura è stata adottata dalla guida di Ada Initiative intitolata "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)”.
 
-1\. Keep in mind that all conference staff will be wearing a conference t-shirt/button with the word “STAFF”
-on it (or otherwise clearly marked as staff). The staff will also be prepared to handle the incident.
-All of our staff are informed of the [code of conduct policy](/2013/about/code-of-conduct/) and guide
-for handling harassment at the conference. *There will be a mandatory staff meeting onsite at the conference
-when this will be reiterated.*
+1\. Ricordatevi che tutto lo staff della conferenza indosserà delle apposite t-shirt chiaramente identificabili.
+Lo staff sarà preparato per gestire l'incidente. Tutto lo staff è a conoscenza del [codice di condotta](/2013/about/code-of-conduct/) 
+e conosce le procedure di gestione delle molestie per la conferenza. *Nel caso si terrà obbligatoriamente una riunione
+dello staff durante la conferenza*
 
-2\. Report the harassment incident (preferably in writing) to a conference staff member. All reports
-are confidential. Please do not disclose public information about the incident until the staff have
-had sufficient time in which to address the situation. This is as much for your safety and protection
-as it is the other attendees.
+2\. Riferite della molestia (preferibilmente in forma scritta) ad un membro dello staff della conferenza. Tutti
+i rapporti sono riservati. Per favore evitate di diffondere in pubblico informazioni circa l'incidente
+finché lo staff non ha avuto abbastanza tempo per gestire la situazione. Questo serve a tutelare la vostra
+sicurezza e quella degli altri partecipanti.
 
-When reporting the event to staff, try to gather as much information as available but do not
-interview people about the incident. Staff will assist you in writing the report/collecting information.
+Quando riferite l'incidente allo staff, cercate di raccogliere quante più informazioni possibili ma senza
+interrogare direttamente le persone sull'accaduto. Lo staff vi aiuterà a compilare il rapporto e raccogliere
+le informazioni necessarie.
 
-The important information consists of:
+Le informazioni importanti sono le seguenti:
+- Informazioni circa l'identità del molestatore
+- Il comportamento che ha costituito violazione del codice di condotta
+- Orario approssimativo dell'accaduto (qualora fosse differente da quello della segnalazione)
+- Il contesto in cui si è svolto l'accaduto
+- Altre persone coinvolte nell'incidente
 
-- Identifying information (name/badge number) of the participant doing the harassing
-- The behavior that was in violation
-- The approximate time of the behavior (if different than the time the report was made)
-- The circumstances surrounding the incident
-- Other people involved in the incident
+Lo staff è bene informato su come gestire con l'incidente e come procedere nella sua gestione.
 
-The staff is well informed on how to deal with the incident and how to further proceed with the situation.
+3\. Se l'incolumità fisica è garantita per tutti, coinvolgete le forze dell'ordine solo dietro a richiesta
+della vittima. Se sentite di essere in pericolo non esitate a contattare le forze di polizia chiamando il 113.
+Se non avete un telefono cellulare, potete usare quello dell'albergo o chiedere allo staff.
 
-3\. If everyone is presently physically safe, involve law enforcement or security only at a victim's request.
-If you do feel your safety in jeopardy please do not hesitate to contact local law enforcement by
-dialing 911. If you do not have a cell phone, you can use any hotel phone or simply ask a staff member.
+**Attenzione**: Incidenti che violano il Codice di Condotta sono estremamente dannosi per la comunità e non
+saranno pertanto tollerati. Il lato positivo è che in molti casi questi incidenti offrono una possibilità
+per l'aggressore, e per la comunità in generale, di crescere, imparare e migliorarsi. Lo staff di DjangoVillage
+vuole essere la prima risorsa cui rivolgersi nel caso di incidenti che riguardano la conferenza, di modo
+che possano far applicare il Codice di Condotta e prendere rapidamente le iniziative necessarie a risolvere il
+problema.
 
-**Note**: Incidents that violate the Code of Conduct are extremely damaging to the community, and they
-will not be tolerated. The silver lining is that, in many cases, these incidents present a chance for
-the offenders, and the community at large, to grow, learn, and become better. PyCon staff requests
-that they be your first resource when reporting a PyCon-related incident, so that they may enforce
-the Code of Conduct and take quick action toward a resolution.
-
-A listing of [PyCon staff is located here](/2013/about/staff/), including contact phone numbers.
-If at all possible, all reports should be made directly to [Ewa Jodlowska](mailto:ewa@python.org) (Event Coordinator) or [Jesse Noller](mailto:jnoller@python.org) (PyCon Chair).
+Una lista dei membri dello staff di DjangoVillage [è disponibile qui](/2013/about/staff/), inclusi i dati
+necessari a contattarli.
