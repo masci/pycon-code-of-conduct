@@ -28,7 +28,7 @@ Gli espositori nella Sala Expo, negli stand degli sponsor o attività simili son
 
 Fate attenzione alle parole che scegliete. Ricordatevi che battute o scherzi sessisti, razzisiti o comunque esclusivisti posso risultare offensivi per le persone che vi circondano. Un uso eccessivo dello sproloquio e di battute offensive non sono appropriati per DjangoVillage.
 
-Se un partecipante si rende colpevole di comportamenti che violano questo codice di condotta, gli organizzatori della conferenza possono prendere le iniziative che riterranno più opportune, incluso ammonire l'offensore o espellerlo dalla conferenza senza diritto al rimborso.
+Se un partecipante si rende colpevole di comportamenti che violano questo codice di condotta, gli organizzatori della conferenza possono prendere le iniziative che riterranno più opportune, incluso ammonire l'aggressore o espellerlo dalla conferenza senza diritto al rimborso.
 
 Contatti
 --------
