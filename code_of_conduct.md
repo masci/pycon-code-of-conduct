@@ -1,24 +1,24 @@
-PyCon US is a community conference intended for networking and collaboration in the developer community.
+DjangoVillage è una conferenza volta al networking ed alla collaborazione all'interno della comunità degli sviluppatori.
 
-We value the participation of each member of the Python community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by PyCon or not.
+Teniamo molto alla partecipazione di ogni membro della comunità Python e Django e vogliamo che tutti i partecipanti vivano un'esperienza divertente ed appagante. Di conseguenza, ci si aspetta da tutti i partecipanti che mostrino rispetto e cortesia nei confronti degli altri durante tutto lo svolgimento della conferenza e degli eventi correlati, che siano organizzati da DjangoVillage oppure no.
 
-To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any PyCon event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
+Per rendere chiaro quello che ci si aspetta tutti i partecipanti, gli speaker, gli sponsor, gli organizzatori ed i volontari devono necessariamente accettare ed attenersi al seguente Codice di Condotta. Gli organizzatori faranno in modo di applicare questo codice durante tutto lo svolgimento dell'evento.
 
-The Short Version
------------------
+Versione Breve
+--------------
 
-PyCon is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form.
+DjangoVillage ha l'obiettivo di organizzare una conferenza priva di molestie per chiunque, senza distinzione di sesso, orientamento sessuale, disabilità, aspetto fisico, taglia, razza o religione. Non tolleriamo in alcun modo la molestia di partecipanti alla conferenza.
 
-All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any conference venue, including talks.
+Tutte le forme di comunicazione devono essere appropriate per un pubblico professionale, incluse persone di varia e differente provenienza. Riferimenti verbali o figurati di tipo sessuale non sono ritenuti appropriati in nessuna delle sedi della conferenza, inclusi i talk. 
 
-Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for PyCon.
+Siate gentili con gli altri. Non insultate o mortificate gli altri partecipanti. Comportatevi in maniera professionale. Ricordatevi che battute o scherzi di tipo molesto, sessista, razzista o esclusivista non sono appropriati per DjangoVillage.
 
-Attendees violating these rules may be asked to leave the conference without a refund at the sole discretion of the conference organizers.
+I partecipanti che violano queste regole saranno invitati a lasciare a conferenza senza rimborso a totale discrezione degli organizzatori.
 
-Thank you for helping make this a welcoming, friendly event for all.
+Grazie per aiutarci a rendere questo evento accogliente ed amichevole per tutti.
 
-The Longer Version
-------------------
+Versione Estesa
+---------------
 
 Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
