@@ -30,28 +30,28 @@ Fate attenzione alle parole che scegliete. Ricordatevi che battute o scherzi ses
 
 Se un partecipante si rende colpevole di comportamenti che violano questo codice di condotta, gli organizzatori della conferenza possono prendere le iniziative che riterranno più opportune, incluso ammonire l'offensore o espellerlo dalla conferenza senza diritto al rimborso.
 
-Contact Information
--------------------
+Contatti
+--------
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff. Conference staff will be wearing "PyCon Staff" t-shirts. You may also contact hotel staff and ask to be put in touch with the conference chair &mdash; Jesse Noller.
+Se avete subito molestie, avete visto altri subirne o per qualsiasi dubbio vi chiediamo cortesemente di contattare un membro dello staff della conferenza. Lo staff vestirà delle t-shirts facilmente identificabili. Potete anche contattare lo staff del vostro albergo che saprà mettervi in contatto con il responsabile dell'organizzazione.
 
-If the matter is especially urgent, please call/contact any of these individuals:
+Se la questione è particolarmente urgente, per favore contattate uno dei seguenti:
 
 - Jesse Noller at +1 (978) 212-9863
 - Diana Clarke (co-chair) at +1 (416) 453-3130
 - Jacob Kaplan-Moss (program chair) at +1 (785) 766-2474
 - Ewa Jodlowska (event coordinator) at +1 (773) 599-3845
 
-Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+Lo staff della conferenza sarà lieto di aiutare i partecipanti a contattare la sicurezza o le forze di polizia locali, fare da scorta o comumque assistere le vittime di molestie perché si sentano al sicuro per tutta la durata della conferenza. Abbiamo a cuore la vostra partecipazione.
 
-Procedure for Handling Harassment
-------------------------------------------
+Procedure per la gestione delle molestie
+----------------------------------------
 - [Attendee Procedure for incident handling](/2013/about/code-of-conduct/harassment-incidents/)
 - [Staff Procedure for incident handling](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents-staff/)
 
-License
+Licenza
 -------
 
-This Code of Conduct was forked from the example policy from the [Geek Feminism wiki, created by the Ada Initiative and other volunteers.](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) which is under a Creative Commons Zero license.
+Questo Codice di Condotta è un fork di quello adottato da [PyCon](https://github.com/python/pycon-code-of-conduct) e rilasciato con licenza Creative Commons Zero.
 
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Conference Code of Conduct</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://us.pycon.org/2013/about/code-of-conduct/" property="cc:attributionName" rel="cc:attributionURL">https://us.pycon.org/2013/about/code-of-conduct/</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
